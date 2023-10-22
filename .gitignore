@@ -1,0 +1,13 @@
+*.py~
+*.pyc
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.log
+*.jpg
+*.png
+node_modules
+machinelearning
